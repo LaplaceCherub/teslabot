@@ -13,3 +13,13 @@
 - What is serverless deployment and how its compared with deployment on server?
     - Serverless deployment is deploying to a cloud environment, where the actual server is totally maintained and controled by the cloud company, so you just have to write and deploy code.
     - Deployment on a traditional server (even in the cloud) would require you do maintain the server itself, including things like choosing how/when to scale.
+
+## Proof of Work
+### Docs Home Screen
+![image](img/docs_screen.png)
+### Running with Well-Formatted Input
+![image](img/running_correctly.png)
+### Running with Poorly-Formatted Input
+![image](img/running_incorrectly.png)
+### Sam Log
+![image](img/sam_log.png)
